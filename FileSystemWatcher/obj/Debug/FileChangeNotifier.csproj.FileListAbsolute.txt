@@ -1,0 +1,17 @@
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileChangeNotifier.csproj.GenerateResource.Cache
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\MyProjects\MyToolbox\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\MyProjects\MyToolbox\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileChangeNotifier.frmNotifier.resources
+H:\C Sharp Projects\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+H:\C Sharp Projects\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+H:\C Sharp Projects\FileSystemWatcher\obj\Debug\FileChangeNotifier.csprojAssemblyReference.cache
+H:\C Sharp Projects\FileSystemWatcher\obj\Debug\FileChangeNotifier.frmNotifier.resources
+H:\C Sharp Projects\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+H:\C Sharp Projects\FileSystemWatcher\obj\Debug\FileChangeNotifier.csproj.GenerateResource.cache
+H:\C Sharp Projects\FileSystemWatcher\obj\Debug\FileChangeNotifier.csproj.CoreCompileInputs.cache
+H:\C Sharp Projects\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+H:\C Sharp Projects\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
